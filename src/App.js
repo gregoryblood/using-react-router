@@ -1,4 +1,5 @@
 import React from 'react';
+
 import './App.css';
 
 const menu = {
@@ -13,6 +14,10 @@ function Home() {
 
 function About() {
   return <h1>About</h1>;
+}
+
+function People() {
+  return <h1>People</h1>;
 }
 
 function Menu() {
